@@ -24,4 +24,4 @@ include_once __DIR__ . '/CRUD/RLogin.php';
 include_once __DIR__ . '/CRUD/REstadio.php';
 include_once __DIR__ . '/CRUD/RFutbolista.php';
 include_once __DIR__ . '/CRUD/REquipo.php';
-//include_once __DIR__ . '/CRUD/RDivision.php';
+include_once __DIR__ . '/CRUD/RDivision.php';
