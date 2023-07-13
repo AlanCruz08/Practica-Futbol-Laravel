@@ -86,7 +86,7 @@ class DivisionController extends Controller
      */
     public function show($id)
     {
-        //
+        //Hola de nuevo uwu
     }
 
     /**
